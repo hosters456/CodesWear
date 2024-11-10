@@ -1,0 +1,13 @@
+#mainNav{
+
+    background-color: black !important;
+    color: white;
+}
+
+.font-white li a{
+    color: white !important;
+}
+
+#card-center{
+    align-items: center;
+}
